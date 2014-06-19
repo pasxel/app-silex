@@ -1,0 +1,4 @@
+/vendor/
+/app/log/
+/app/cache/
+/app/config/prod.php
